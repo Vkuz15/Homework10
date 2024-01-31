@@ -8,6 +8,6 @@ public class Main {
         String lastName = "Ivanov";
         String fullName = lastName + " " + firstName + " " + middleName;
         fullName = fullName.toUpperCase();
-        System.out.println("Ф.И.О. сотрудника - " + fullName);
+        System.out.println("Данные Ф.И.О. сотрудника для заполнения отчета - " + fullName);
     }
 }
